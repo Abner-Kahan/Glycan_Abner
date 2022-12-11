@@ -1,0 +1,41 @@
+# This file was created Tue Mar 31 18:11:13 2020
+# Created by:
+#                     :-) GROMACS - gmx cluster, 2018.2 (-:
+# 
+# Executable:   /home/matma/Programs/gromacs.2018.2/bin/gmx
+# Data prefix:  /home/matma/Programs/gromacs.2018.2
+# Working dir:  /media/matma/matma_ext/Log/BP_receptors/HighMannose/N2M3N2G2/glycan/md-run
+# Command line:
+#   gmx cluster -f run_pbc.xtc -s run_pbc.gro -n ../sug.ndx -g cluster_d0.20/clust.log -o cluster_d0.20/clust_mat.xpm -sz cluster_d0.20/clust_size.xvg -nst 50 -wcl 2000 -cl cluster_d0.20/clust_id.pdb -dt 100 -cutoff 0.20
+# gmx cluster is part of G R O M A C S:
+#
+# Gyas ROwers Mature At Cryogenic Speed
+#
+@    title "Cluster Sizes"
+@    xaxis  label "Cluster #"
+@    yaxis  label "# Structures"
+@TYPE xy
+@g0 type bar
+       1        1
+       2     1965
+       3        2
+       4        2
+       5        8
+       6        1
+       7        1
+       8        1
+       9        1
+      10        1
+      11        1
+      12        1
+      13        4
+      14        1
+      15        1
+      16        1
+      17        1
+      18        1
+      19        1
+      20        2
+      21        2
+      22        1
+      23        1
